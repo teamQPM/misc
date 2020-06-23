@@ -1,5 +1,4 @@
-# misc
-Miscelaneous things related to QPM
+# misc - Miscelaneous things related to QPM
 
 OldDistros contains the first release of QPM and other posterior releases not hosted by GitHub.
 
